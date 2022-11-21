@@ -11,3 +11,8 @@ There are different ways to find out if data structure is good for project. The 
 to know it is through Big O Notation. 
 
 ## What is it Big O Notacion. 
+
+Big O is a mathematical notacion that represents the worst case run time or space
+requirement as input size increases. This could be as the input size grows how 
+much longer does your algorithm take to run and how much more space in memory does the 
+algorithm need. 

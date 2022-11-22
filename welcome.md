@@ -16,3 +16,7 @@ Big O is a mathematical notacion that represents the worst case run time or spac
 requirement as input size increases. This could be as the input size grows how 
 much longer does your algorithm take to run and how much more space in memory does the 
 algorithm need. 
+
+![Big O Notation](images/bigOnotation.png)
+
+

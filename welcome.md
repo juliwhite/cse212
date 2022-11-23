@@ -1,5 +1,9 @@
 # FINAL PROJECT - DATA STRUCTURES
 
+Welcome to Python Data Structures tutorial. To begin this tutorial I will make a brief
+introduction on the meaning of Data Structure, also an explanation of Big O Notation and 
+the importance on Data Structures. 
+
 ## What is Data Structure?
 
 When you have data that you need to keep organized, you can achieve this
@@ -19,4 +23,18 @@ algorithm need.
 
 ![Big O Notation](images/bigOnotation.png)
 
+## A programer can create their own data structure, for example, Stack, 
+## Queue, Tree, Linked List, Graph, and Hash Map. 
+## We will cover three different data structures in this tutorial: 
 
+* ### [Stack](1_stack.md)
+* ### [Linked List](2_linkedlist.md)
+* ### [Tree](3_tree.md)
+
+## Contact
+
+For questions or comments, please send them to:
+
+Julieta White, BYU-Idaho, CSE 212, Section 4
+
+julietawhite30@gmail.com

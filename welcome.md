@@ -23,9 +23,8 @@ algorithm need.
 
 ![Big O Notation](images/bigOnotation.png)
 
-## A programer can create their own data structure, for example, Stack, 
-## Queue, Tree, Linked List, Graph, and Hash Map. 
-## We will cover three different data structures in this tutorial: 
+
+## A programer can create their own data structure, for example, Stack, Queue, Tree, Linked List,Graph, and Hash Map. We will cover three different data structures in this tutorial: 
 
 * ### [Stack](1_stack.md)
 * ### [Linked List](2_linkedlist.md)

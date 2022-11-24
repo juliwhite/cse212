@@ -1,6 +1,6 @@
-# Stack
+# **Stack**
 
-## Definition of Stack
+## **Definition of Stack**
 
 Stack is a user defined Data Structure. Stack maintain the data in an ordered fashion way. Stack store items in Last In First Out(LIFO) or First In Last Out (FILO) manner. A stack is a linear data structure.
 
@@ -16,7 +16,7 @@ When you place a book one at a time on top of each other, this is a stack. When 
 
 In programming, putting an item on top of the stack is called `push` and removing an item is called `pop`. 
 
-## Stack functions:
+## **Stack functions:**
 
 | Operation | Performance | Time Complexity |
 | --- | --- | --- |
@@ -26,11 +26,11 @@ top() | Returns a reference to the topmost element of the stack | O(1)
 push() | Inserts the element at the top of the stack | O(1)
 pop() | Deletes the topmost element of the stack | O(1)
 
-## Implementing a Stack in Python
+## **Implementing a Stack in Python**
 
 To implement a stack, which is a collection of elements, we will use list. Python provides an ordered collection of elements. We can decide which will be the top or base on the list to perform the operations. We will use the methods that python provide like append() and pop().
 
-### Example
+### _Example_
 
 * Adding element to a stack using append().
 
@@ -68,4 +68,4 @@ stack[-1]
 ```
 We use index to get the last element or top element. In this example the element in the top position is 2. 
 
-## Problem to solve
+## **Problem to solve**

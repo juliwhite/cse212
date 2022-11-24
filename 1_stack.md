@@ -14,7 +14,7 @@ When you place a book one at a time on top of each other, this is a stack. When 
 
 ![Stack of objects](images/stack_3.png)
 
-In programming, putting an item on top of the stack is called push and removing an item is called pop. 
+In programming, putting an item on top of the stack is called `push` and removing an item is called `pop`. 
 
 ## Stack functions:
 
@@ -26,3 +26,46 @@ top() | Returns a reference to the topmost element of the stack | O(1)
 push() | Inserts the element at the top of the stack | O(1)
 pop() | Deletes the topmost element of the stack | O(1)
 
+## Implementing a Stack in Python
+
+To implement a stack, which is a collection of elements, we will use list. Python provides an ordered collection of elements. We can decide which will be the top or base on the list to perform the operations. We will use the methods that python provide like append() and pop().
+
+### Example
+
+* Adding element to a stack using append().
+
+```
+stack = [] 
+stack.append(1)
+stack.append(2)
+stack.append(3)
+```
+Here we first created an emptly list and then we added elements to the stack list.
+
+```
+print(stack)
+[1, 2, 3]
+```
+
+* Removing elements from the stack using pop()
+```
+stack.pop()
+3
+```
+Here it removed the last element from the stack. 
+
+* Check if a stack is empty. 
+```
+len(stack) == 0
+False
+```
+Here we can use the len() function to check if a list is empty. The list return False because we have element in our list.
+
+* If you want to access the top element. 
+```
+stack[-1]
+2
+```
+We use index to get the last element or top element. In this example the element in the top position is 2. 
+
+## Problem to solve

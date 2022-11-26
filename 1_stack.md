@@ -71,7 +71,7 @@ We use index to get the last element or top element. In this example the element
 ## **Problem to solve**
 
 To show how stack works, we will write a function that reverse a string. We will input a string as a list of characters. There are multiple way to resolve this problem, but we will write a function that will work with O(n). 
-For example will input the string "datastructure" and we will reverse these characters. First we will loop through each character and add them in a stack. Then we will remove them one by one. For this procese, we will use the pop() function, this will be the last character on the top and we will proceded this way. 
+For example will input the string _"data structure"_ and we will reverse these characters. First we will loop through each character and add them in a stack. Then we will remove them one by one. For this procese, we will use the pop() function, this will be the last character on the top and we will proceded this way. 
 
 ## **Solution**
 

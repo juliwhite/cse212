@@ -68,7 +68,7 @@ class Linked_list:
 
 * Adding an element using append().
 
-```
+```.py
 def append(self, data):
 """
 Create the Head of the linked List.

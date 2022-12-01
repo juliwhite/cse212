@@ -83,15 +83,19 @@ This has a time complexity of O(1).We start by instantiating a new node, assigni
 ```
 
 * Finding an element from the Linked List.
+
 Find an item within the linked list.
 
-* Removing an element from the Linked List. 
+* Removing an element from the Linked List.
+
 Remove a given item with a given value.
 
-* Checking if a Linked List is empty. 
+* Checking if a Linked List is empty.
+
 Returns whether the linked list is empty or not.
 
 * Get the length of a Linked List. 
+
 Returns the number of items in the linked list.
 
 
